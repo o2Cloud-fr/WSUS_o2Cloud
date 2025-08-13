@@ -1,4 +1,0 @@
-[2025-08-13 12:08:28] Application démarrée avec privilèges administrateur
-[2025-08-13 12:13:45] Application démarrée avec privilèges administrateur
-[2025-08-13 12:49:19] Application démarrée avec privilèges administrateur
-[2025-08-13 13:02:50] Application démarrée avec privilèges administrateur
