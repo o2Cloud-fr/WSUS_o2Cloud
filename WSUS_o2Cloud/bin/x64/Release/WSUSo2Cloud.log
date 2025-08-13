@@ -1,0 +1,26 @@
+[2025-08-13 12:06:56] INFO - Arrêt de l'application WSUS o2Cloud
+[2025-08-13 12:06:56] INFO - Démarrage de l'application WSUS o2Cloud
+[2025-08-13 12:06:56] ERROR - Erreur fatale au démarrage
+Exception: Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "WSUS_o2Cloud.Form1.resources" a été correctement incorporé ou lié dans l'assembly "WSUS_o2Cloud" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+Stack Trace:    à System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+   à System.Resources.ManifestBasedResourceGroveler.GrovelForResourceSet(CultureInfo culture, Dictionary`2 localResourceSets, Boolean tryParents, Boolean createIfNotExists, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo requestedCulture, Boolean createIfNotExists, Boolean tryParents, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo culture, Boolean createIfNotExists, Boolean tryParents)
+   à System.Resources.ResourceManager.GetObject(String name, CultureInfo culture, Boolean wrapUnmanagedMemStream)
+   à WSUS_o2Cloud.Form1.InitializeComponent() dans C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\Form1.Designer.cs:ligne 165
+   à WSUS_o2Cloud.Form1..ctor() dans C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\Form1.cs:ligne 29
+   à WSUS_o2Cloud.Program.Main(String[] args) dans C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\Program.cs:ligne 62
+
+[2025-08-13 12:08:26] INFO - Arrêt de l'application WSUS o2Cloud
+[2025-08-13 12:08:28] INFO - Arrêt de l'application WSUS o2Cloud
+[2025-08-13 12:08:28] INFO - Démarrage de l'application WSUS o2Cloud
+[2025-08-13 12:13:40] INFO - Arrêt de l'application WSUS o2Cloud
+[2025-08-13 12:13:45] INFO - Arrêt de l'application WSUS o2Cloud
+[2025-08-13 12:13:45] INFO - Démarrage de l'application WSUS o2Cloud
+[2025-08-13 12:37:36] INFO - Arrêt de l'application WSUS o2Cloud
+[2025-08-13 12:49:19] INFO - Arrêt de l'application WSUS o2Cloud
+[2025-08-13 12:49:19] INFO - Démarrage de l'application WSUS o2Cloud
+[2025-08-13 12:49:37] INFO - Arrêt de l'application WSUS o2Cloud
+[2025-08-13 13:02:49] INFO - Arrêt de l'application WSUS o2Cloud
+[2025-08-13 13:02:49] INFO - Démarrage de l'application WSUS o2Cloud
+[2025-08-13 13:02:58] INFO - Arrêt de l'application WSUS o2Cloud

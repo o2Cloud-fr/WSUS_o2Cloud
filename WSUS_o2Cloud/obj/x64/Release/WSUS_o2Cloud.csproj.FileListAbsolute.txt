@@ -1,0 +1,15 @@
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\bin\x64\Release\WSUS_o2Cloud.exe.config
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\bin\x64\Release\WSUS_o2Cloud.exe
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\bin\x64\Release\WSUS_o2Cloud.pdb
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\bin\x64\Release\WUApiLib.Utility.dll
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\WSUS_o2Cloud.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\WSUS_o2Cloud.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\Interop.WUApiLib.dll
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\WSUS_o2Cloud.csproj.ResolveComReference.cache
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\WSUS_o2Cloud.Properties.Resources.resources
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\WSUS_o2Cloud.csproj.GenerateResource.cache
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\WSUS_o2Cloud.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\WSUS_o2Cloud.csproj.CopyComplete
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\WSUS_o2Cloud.exe
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\WSUS_o2Cloud.pdb
+C:\Users\MyAlien\source\repos\WSUS_o2Cloud\WSUS_o2Cloud\obj\x64\Release\WSUS_o2Cloud.Form1.resources
